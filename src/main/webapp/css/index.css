@@ -1,0 +1,13 @@
+body{
+    background-color: #85A3ED;
+}
+.button{
+    color: black;
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+}
+td{
+    padding-top: 10px;
+}
